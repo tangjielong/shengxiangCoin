@@ -1,4 +1,4 @@
-# hellocoin
+# shengxiangCoin
 使用区块链技术实现的类似bitcoin的分布式数字货币
 
 # 命令
@@ -33,5 +33,3 @@
 全结点 —— 验证交易的有效性<br/>
 SPV —— 客户端，用来简单支付验证
 
-# 参考
-[Blockchain Tutorial](https://liuchengxu.gitbooks.io/blockchain-tutorial/content/) 
